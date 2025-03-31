@@ -1,0 +1,34 @@
+2024-05-21 19:08:08 - CREATE - catalog_data - materie, persoana
+2024-05-21 19:08:08 - CREATE - catalog_primara - materie, persoana
+2024-05-21 20:02:34 - READ - catalog_primara - materie, persoana
+2024-05-21 20:16:01 - CREATE - catalog_data - materie, persoana
+2024-05-21 20:16:01 - CREATE - catalog_gimnaziu - materie, persoana
+2024-05-21 20:33:01 - READ - catalog_primara - materie, persoana
+2024-05-21 20:36:37 - READ - catalog_gimnaziu - materie, persoana
+2024-05-21 20:37:14 - READ - catalog_primara - materie, persoana
+2024-05-21 20:44:16 - READ - catalog_primara - materie, persoana
+2024-05-21 22:58:53 - READ - catalog_primara - materie, persoana
+2024-05-21 23:02:09 - READ - catalog_primara - materie, persoana
+2024-05-21 23:03:12 - UPDATE - catalog_primara - nota
+2024-05-21 23:03:23 - READ - catalog_primara - materie, persoana
+2024-05-21 23:03:50 - READ - catalog_gimnaziu - materie, persoana
+2024-05-21 23:15:32 - CREATE - catalog_data - materie, persoana
+2024-05-21 23:15:32 - CREATE - catalog_primara - materie, persoana
+2024-05-21 23:15:36 - READ - catalog_primara - materie, persoana
+2024-05-29 01:17:51 - READ - catalog_primara - materie, persoana
+2024-05-29 01:20:03 - UPDATE - catalog_primara - nota
+2024-05-29 01:38:45 - CREATE - catalog_data - materie, persoana
+2024-05-29 01:38:45 - CREATE - catalog_gimnaziu - materie, persoana
+2024-05-29 02:00:32 - CREATE - catalog_data - materie, persoana
+2024-05-29 02:00:32 - CREATE - catalog_gimnaziu - materie, persoana
+2024-05-29 02:46:27 - READ - catalog_data - materie, persoana
+2024-05-29 14:13:45 - UPDATE - catalog_gimnaziu - nota
+2024-05-29 14:49:18 - READ - catalog_gimnaziu - materie, persoana
+2024-05-29 14:50:02 - UPDATE - catalog_primara - nota
+2024-05-29 14:50:20 - READ - catalog_primara - materie, persoana
+2024-05-29 14:52:55 - UPDATE - catalog_primara - nota
+2024-05-29 18:09:09 - READ - catalog_primara - materie, persoana
+2024-05-29 20:05:16 - READ - catalog_primara - materie, persoana
+2024-05-29 20:12:30 - CREATE - catalog_data - materie, persoana
+2024-05-29 20:12:30 - CREATE - catalog_primara - materie, persoana
+2024-05-29 20:14:15 - READ - catalog_primara - materie, persoana
