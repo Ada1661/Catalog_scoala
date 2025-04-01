@@ -1,15 +1,14 @@
-# Catalog Școală
-Acest proiect reprezintă un sistem de gestionare a catalogului școlar, conceput pentru a administra informațiile  despre elevi, profesori, cursuri și note într-o instituție de învățământ.
+# School Catalog
+This project is a school catalog management system designed to administer information about students, teachers, courses, and grades within an educational institution.
 
-## Descriere
-Catalogul este dezvoltata pentru a facilita evidența academică într-un mod organizat și eficient
-Proiectul include scripturi SQL care:
-- Crează și configurează baza de date;
-- Inserează datele inițiale (elevi, profesori, cursuri, note).
-- Implementează proceduri stocate, declanșatori și interogări pentru gestionarea automată a datelor și calculul mediilor.
+## Description
+The catalog is developed to facilitate organized and efficient academic record-keeping. The project includes SQL scripts that:
+- Create and configure the database;
+- Insert initial data (students, teachers, courses, grades);
+- Implement stored procedures, triggers, and queries for automated data management and grade calculation.
 
-## Funcționalități
-- **Gestionarea datelor:** Administrare completă a informațiilor despre elevi, profesori și cursuri.
-- **Calculul notelor:** Automatizarea procesului de calcul al mediilor și actualizarea acestora.
-- **Interogări dinamice:** Posibilitatea de a efectua interogări complexe pentru a genera rapoarte și statistici.
-- **Automatizare:** Utilizarea procedurilor stocate și declanșatorilor pentru a asigura integritatea și actualizarea datelor.
+## Features
+- **Data Management:** Comprehensive administration of information about students, teachers, and courses.
+- **Grade Calculation:** Automated processes for calculating and updating grades.
+- **Dynamic Queries:** Ability to perform complex queries to generate reports and statistics.
+- **Automation:** Use of stored procedures and triggers to ensure data integrity and timely updates.
